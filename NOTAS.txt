@@ -1,0 +1,5 @@
+Si quieren editar las imagenes del carrousel las imagenes ponganlas en un tamaño de 1920*720
+ya que en las imagenes si se pueden controlar la anchura pero no la altura del carrousel.
+
+No especificamente tienen que ser del tamaño exacto, solo que sea congruente y que el carrousel 
+no cambie tanto de tamaño halando de altura.
